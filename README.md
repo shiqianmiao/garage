@@ -1,6 +1,7 @@
 garage
 ======
 the step to install the garage
+如果有指定环境编译或分发的话，命令：grunt build:xxxx/xxx/xxx  deploy --env=xxx
 
 1. git clone git://github.com/shiqianmiao/garage.git
 2. clone完毕后，进入garage目录，配置里面的config.json文件，主要修改里面的一些目录和版本号缓存的memcached的配置，目录也可以不改直接用默认目录结构。
