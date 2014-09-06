@@ -1,5 +1,5 @@
 garage
-======
+=======
 the step to install the garage
 如果有指定环境编译或分发的话，命令：grunt build:xxxx/xxx/xxx  deploy --env=xxx
 
