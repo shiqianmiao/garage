@@ -11,3 +11,6 @@ the step to install the garage
 6. 完了，安装 node的npm， ubuntu下面可以：sudo apt-get install npm 搞定。
 7. 然后安装 grunt-cli。命令：npm install -g grunt-cli。
 8. 此时进入garage目录，执行 grunt build即可开始编译test中的代码到  garage/build/test/中，配置nginx指向build即可。
+
+9. 安装新版本的 sta：
+10. npm install -d
